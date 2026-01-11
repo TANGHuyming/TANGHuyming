@@ -1,10 +1,6 @@
 <h1 align="center">Hello 👋, I'm Huyming</h1>
 <h3 align="center">A passionate frontend developer and a Computer Science undergraduate from Cambodia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanghuyming&label=Profile%20views&color=0e75b6&style=flat" alt="tanghuyming" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanghuyming" alt="tanghuyming" /></a> </p>
-
 - 🔭 I’m currently working on an ecommerce app called **AutoliveKH**
 
 - 🌱 I’m currently learning **NextJS and Introduction to Backend development**
