@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Huyming Tang 👋</h1>
 
 <p align="center">
-  Frontend developer & Computer Science undergraduate from Cambodia.<br/>
+  Fullstack developer & Computer Science undergraduate from Cambodia.<br/>
   Building things for the web — one component at a time.
 </p>
 
@@ -9,7 +9,9 @@
 
 ### What I'm up to
 
-- ⚙️ Building **[AutoliveKH](#)** — a fullstack ecommerce app
+- ⚙️ Paused **[AutoliveKH](https://autoliveapp.vercel.app/)** — a fullstack ecommerce app
+- ⚙️ Paused **[ElitefitnessApp](https://elitefitnessapp.vercel.app/)** — a fullstack gym app
+- ⚙️ Building **[WorkoutTrackerApp](https://workout-tracker-app-tau.vercel.app/)** — a fullstack workout tracker app
 - 📘 Expanding into backend development with **Next.js**
 - 🎮 Off-screen: survival games and volleyball keep me sane
 
@@ -17,7 +19,7 @@
 
 ### Ask me about
 
-`React` `JavaScript` `HTML` `CSS`
+`Next` `React` `JavaScript` `HTML` `CSS`
 
 ---
 
