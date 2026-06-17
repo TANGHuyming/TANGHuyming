@@ -12,6 +12,7 @@
 - ⚙️ Paused **[AutoliveKH](https://autoliveapp.vercel.app/)** — a fullstack ecommerce app
 - ⚙️ Paused **[ElitefitnessApp](https://elitefitnessapp.vercel.app/)** — a fullstack gym app
 - ⚙️ Building **[WorkoutTrackerApp](https://workout-tracker-app-tau.vercel.app/)** — a fullstack workout tracker app
+- ⚙️ Working as a fullstack developer for AUPP IT Development Department
 - 📘 Expanding into backend development with **Next.js**
 - 🎮 Off-screen: survival games and volleyball keep me sane
 
