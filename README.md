@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Huyming Tang 👋</h1>
 
 <p align="center">
-  I am a fullstack web developer & computer science undergraduate from Cambodia.<br/>
+  I am a fullstack developer & computer science undergraduate from Cambodia.<br/>
   I like to building things for the web — one component at a time.
 </p>
 
