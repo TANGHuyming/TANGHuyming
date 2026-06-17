@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Huyming Tang 👋</h1>
 
 <p align="center">
-  Fullstack developer & Computer Science undergraduate from Cambodia.<br/>
-  Building things for the web — one component at a time.
+  I am a fullstack web developer & computer science undergraduate from Cambodia.<br/>
+  I like to building things for the web — one component at a time.
 </p>
 
 ---
@@ -13,8 +13,8 @@
 - ⚙️ Paused **[ElitefitnessApp](https://elitefitnessapp.vercel.app/)** — a fullstack gym app
 - ⚙️ Building **[WorkoutTrackerApp](https://workout-tracker-app-tau.vercel.app/)** — a fullstack workout tracker app
 - ⚙️ Working as a fullstack developer for AUPP IT Development Department
-- 📘 Expanding into backend development with **Next.js**
-- 🎮 Off-screen: survival games and volleyball keep me sane
+- 📘 Expanding into backend development with **Next.js** and Laravel
+- 🎮 Off-screen: survival games (Minecraft and 7 Days to Die) and volleyball keep me sane
 
 ---
 
