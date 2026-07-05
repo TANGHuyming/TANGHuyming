@@ -2,7 +2,7 @@
 
 <p align="center">
   I am a fullstack developer & computer science undergraduate from Cambodia.<br/>
-  I like to building things for the web — one component at a time.
+  I like to build things for the web — one component at a time.
 </p>
 
 ---
