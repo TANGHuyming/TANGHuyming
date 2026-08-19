@@ -20,7 +20,7 @@
 
 ### Ask me about
 
-`Next` `React` `JavaScript` `HTML` `CSS`
+`Next` `React` `JavaScript` `HTML` `CSS` `Laravel` `Vue`
 
 ---
 
